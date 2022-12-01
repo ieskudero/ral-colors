@@ -1,0 +1,19 @@
+{
+  "name": "ral-colors",
+  "version": "1.0.0",
+  "description": "RAL color information",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ieskudero/ral-colors.git"
+  },
+  "keywords": [
+    "RAL",
+    "colors"
+  ],
+  "author": "ibon eskudero",
+  "license": "ISC"
+}
