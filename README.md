@@ -1,5 +1,5 @@
 # ral-colors
-Package containing all the RAL color information. 
+Package containing all the RAL color information. [list of ral colors](https://en.wikipedia.org/wiki/List_of_RAL_colors)
 
 ## usage
 ```js
