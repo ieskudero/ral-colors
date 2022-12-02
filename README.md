@@ -5,8 +5,6 @@ Package containing all the RAL color information. [list of ral colors](https://e
 ```js
 import { RAL } from 'ral-colors/index.js';
 
-let classic_rals = RAL.classic;
-
 //classic ral colors
 console.log( RAL.classic.RAL1013 );
 
